@@ -1,0 +1,21 @@
+{
+    "name": "uglify-css-selectors",
+    "version": "1.0.0",
+    "description": "An example for renaming css selectors across HTML, CSS and JS files to make it production ready (uglify)",
+    "main": "index.html",
+    "scripts": {
+        "uglify": "node -e 'require(\"./uglify.js\").uglify()'"
+    },
+    "keywords": [
+        "uglify",
+        "rename"
+    ],
+    "author": "Asif",
+    "license": "CC0-1.0",
+    "dependencies": {
+        "node-html-parser": "^5.2.0"
+    },
+    "devDependencies": {
+        "unique-names-generator": "^4.6.0"
+    }
+}
