@@ -1,2 +1,2 @@
 # Uglify-CSS-Selectors
-Rename css selectors across HTML, CSS and JS files to make it production ready (uglify).
+Rename CSS Class Names across HTML and CSS files to make it production ready (uglify).
